@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Local build and IDE state
+/build/
+.vs/
