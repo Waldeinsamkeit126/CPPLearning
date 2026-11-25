@@ -10,6 +10,7 @@
 | 算法 | 二分、搜索、动态规划、贪心、滑动窗口、排序与双指针 | [算法目录](Algorithms/README.md) |
 | 数据结构 | 链表、迭代器、多项式与稀疏矩阵 | [数据结构目录](DataStructures/README.md) |
 | 自定义类 | 有理数、字符串与大整数练习 | [小项目目录](Projects/README.md) |
+| 课程作业 | 数据结构课程 Quiz10–16（不含14）、作业7–12 | [课程归档](Coursework/DataStructures/README.md) |
 
 ## 从一个例子开始
 
@@ -27,7 +28,7 @@ g++ -std=c++17 Algorithms/DynamicProgramming/01Pack.cpp -o build/knapsack.exe
 
 ## 当前状态
 
-- 已有内容：标准库应用、算法、数据结构、自定义类。
+- 已有内容：标准库应用、算法、数据结构、自定义类及数据结构课程作业。
 - 后续学习方向：Linux、多线程、网络编程、AI Infrastructure；这些是学习目标，当前尚无对应模块。
 - [已知待完善项](KNOWN_ISSUES.md)记录整理时从源码确认的问题；本仓库不是经过完整测试的算法库。
 

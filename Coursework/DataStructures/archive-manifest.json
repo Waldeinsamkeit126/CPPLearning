@@ -1,0 +1,96 @@
+{
+  "course": "数据结构（0781）",
+  "course_url": "https://canvas.shufe.edu.cn/courses/43788/assignments",
+  "archived_on": "2026-11-25",
+  "source": "Canvas current submission text preview",
+  "normalization": "NBSP replaced with spaces; indentation, blank lines and line endings normalized; source statements and comments preserved",
+  "excluded": [
+    "Quiz14"
+  ],
+  "submissions": [
+    {
+      "title": "Quiz10 走迷宫",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/42105",
+      "path": "Quizzes/Quiz10-Maze.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "06f712179221a60925444af769b903731405e9c731fc86badc94c2f79ee538ed"
+    },
+    {
+      "title": "Quiz11 打印杨辉三角形",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/42181",
+      "path": "Quizzes/Quiz11-PascalTriangle.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "67826ec65c230f9a52d849a21d26477fb2c40a6bba49b12455818c467422478a"
+    },
+    {
+      "title": "Quiz12 二叉树的深度与平均值",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/42775",
+      "path": "Quizzes/Quiz12-TreeDepthAndAverage.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "0ef2f83853ee7dbc9fe67b930f93e4198252f8aee3429b381eaafa5ef70dc802"
+    },
+    {
+      "title": "Quiz13 堆排序",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43171",
+      "path": "Quizzes/Quiz13-HeapSort.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "e9043ca4274d9d51bb58927fb8d179ed6d9f440058fffed8c2997ab2917a329f"
+    },
+    {
+      "title": "Quiz15 哈希表查找操作",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43861",
+      "path": "Quizzes/Quiz15-HashTable.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "b246422f0632835d71a549568d602fb6a80a21859de25052bba9dac32b7ba6bb"
+    },
+    {
+      "title": "Quiz16 二叉树练习",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43862",
+      "path": "Quizzes/Quiz16-BinaryTree-Incomplete.cpp",
+      "status": "incomplete",
+      "sha256": "afb68c678d7ac9e6e2932c7dd57fbd0dd7edae7d8aa6f6ba9fa88f3fea149bb4"
+    },
+    {
+      "title": "作业7 汉诺塔问题的非递归求解",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/42221",
+      "path": "Homework/Homework07-IterativeHanoi.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "1a1b8994ca98ec159c93b7dd131335298de874e9f10fafaf5df444c71f8c32c9"
+    },
+    {
+      "title": "作业8 根据先序和中序遍历的序列构造二叉树",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43066",
+      "path": "Homework/Homework08-ReconstructBinaryTree.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "9e66a6331e2f2cb4a1c88217fa9031d71f85d9baba4c24f859961ff5eac9e339"
+    },
+    {
+      "title": "作业9 后序遍历的游标类",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43373",
+      "path": "Homework/Homework09-PostorderIterator.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "2b2354c5cd86da4bfba3910bb0e68f55fa5d17dcd63ceb278ee02f5aaa2fe4d7"
+    },
+    {
+      "title": "作业10 三进制哈夫曼编码",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43490",
+      "path": "Homework/Homework10-TernaryHuffman.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "c27f76a8cb4adcea5afc4a7ed6235adaeaab0c698c6b12a40799975bccda6ed7"
+    },
+    {
+      "title": "作业11 AVL树的平衡操作",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/43760",
+      "path": "Homework/Homework11-AVLTree.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "e46e4614100af3ba71571e50d2173147471ee70f6702494bf2a8f1bb1da6e20e"
+    },
+    {
+      "title": "作业12 归并排序算法",
+      "assignment_url": "https://canvas.shufe.edu.cn/courses/43788/assignments/44241",
+      "path": "Homework/Homework12-MergeSort.cpp",
+      "status": "compiled-and-sample-checked",
+      "sha256": "f7aba303784e6bba1808cb235420ac30c34a1ecb4511b578fde5c4be6b90b95f"
+    }
+  ]
+}
